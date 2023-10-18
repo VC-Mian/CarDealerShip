@@ -1,4 +1,4 @@
-package finalProject;
+package carDealerShip;
 
 /**
  *Menu.java: user can add cars, modify a car, view a certain car, view all info of all cars, display average mileage of cars, displays lowest car price, and user can make an offer to the customer.
