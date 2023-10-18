@@ -1,4 +1,4 @@
-package finalProject;
+package carDealerShip
 /**
  *Car.java: contains cars attributes and returns them to menu 
  * @author V. Miranda-Calleja
